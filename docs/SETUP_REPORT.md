@@ -26,3 +26,9 @@ Browser verification used a separate local test context, not Frank's browser pro
 Python unit checks cover flat-package limits and an empty fresh checkout. JavaScript syntax and generated-data consistency are checked. Skill validation passes with a temporary naming-only normalization; the installed user-requested underscore name intentionally fails the generic validator's hyphen-only naming check. No validator was weakened.
 
 Historical assets and retired artifacts remain recovery material, not current creative authority. Future edits must rerun the real affected user path and keep approval, structural review, semantic review and package integrity separate.
+
+## Retirement outcome
+
+New repository was pushed and independently cloned; the empty-project build, Python tests and all five browser navigation tabs passed. The existing Studio address now resolves to the new local project. All original Console files, dirty/untracked work, local data and Git history remain in a local recovery directory outside active workflow/skill discovery. The old skill is removed from its discoverable location. Blender discovery anchors point to the new asset roots.
+
+Deletion of the old GitHub repository was attempted after a complete remote mirror and Git integrity check. GitHub returned HTTP 403, reporting missing admin/delete_repo authorization. The old remote therefore remains; deletion is not claimed completed. No authentication scopes were changed.
