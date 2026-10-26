@@ -1,0 +1,6 @@
+interface:
+  display_name: "Caelus Commercial Studio"
+  short_description: "Direct stories and Blender-grounded keyframe handoffs"
+  default_prompt: "Use $caelus_commercial_studio to continue the current Studio project, review story and product fidelity, and prepare keyframes with a concise external-video prompt."
+policy:
+  allow_implicit_invocation: true

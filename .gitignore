@@ -1,0 +1,22 @@
+# Local project, generated media and backups stay outside public Git.
+project.local.json
+local-data/
+quick source/
+reference_library/
+retired/
+__pycache__/
+*.pyc
+.env*
+.venv/
+studio/**
+!studio/index.html
+!studio/base.css
+!studio/production.css
+!studio/app.js
+!studio/timeline-v1/
+studio/timeline-v1/**
+!studio/timeline-v1/studio.js
+!studio/timeline-v1/studio.css
+!studio/contract.js
+
+docs/SLEEPING_ASSET-historical.md

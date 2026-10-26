@@ -1,0 +1,11 @@
+{
+  "version": "studio-empty",
+  "title": "新影片",
+  "date": null,
+  "rules": [],
+  "scenes": [],
+  "visual_policy": {
+    "style_reference": "",
+    "identity_assets": []
+  }
+}
